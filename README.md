@@ -8,7 +8,8 @@ This code is for paper: [L. Liu and W. Yu, "Massive connectivity with massive MI
   volume={66},<br> 
   number={11},<br> 
   pages={2933--2946},<br> 
-  year={Jun. 2018},<br> 
+  month={Jun.},<br>
+  year={2018},<br> 
   publisher={IEEE}<br> 
 }<br> 
 <br> 
@@ -19,6 +20,7 @@ This code is for paper: [L. Liu and W. Yu, "Massive connectivity with massive MI
   volume={66},<br> 
   number={11},<br> 
   pages={2947--2959},<br> 
-  year={Jun. 2018},<br> 
+  month={Jun.},<br>
+  year={2018},<br> 
   publisher={IEEE}<br> 
 }<br> 
