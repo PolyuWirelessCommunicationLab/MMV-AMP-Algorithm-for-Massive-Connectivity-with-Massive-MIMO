@@ -1,0 +1,2 @@
+# MMV-AMP-Algorithm
+This code is for paper: L. Liu and W. Yu, "Massive connectivity with massive MIMO-Part I: Device activity detection and channel estimation," IEEE Trans. Signal Process., vol. 66, no. 11, pp. 2933-2946, Jun. 2018. and L. Liu and W. Yu, "Massive connectivity with massive MIMO-Part II: Achievable rate characterization," IEEE Trans. Signal Process., vol. 66, no. 11, pp. 2947-2959, Jun. 2018.
